@@ -1,1 +1,0 @@
-import{_ as t,c as e,o as a}from"./app.56cd1ddb.js";const l=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"openpose/getting-started.md","lastUpdated":null}'),n={name:"openpose/getting-started.md"};function o(r,s,p,c,d,i){return a(),e("div")}const m=t(n,[["render",o]]);export{l as __pageData,m as default};

@@ -1,0 +1,1 @@
+import{_ as t,c as e,o as a}from"./app.56cd1ddb.js";const _=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"mov2mov/getting-started.md","lastUpdated":1678564753000}'),o={name:"mov2mov/getting-started.md"};function r(s,n,c,d,i,m){return a(),e("div")}const f=t(o,[["render",r]]);export{_ as __pageData,f as default};

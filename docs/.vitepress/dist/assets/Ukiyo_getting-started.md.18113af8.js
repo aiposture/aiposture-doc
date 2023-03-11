@@ -1,1 +1,0 @@
-import{_ as t,c as e,o as a}from"./app.56cd1ddb.js";const l=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"Ukiyo/getting-started.md","lastUpdated":null}'),r={name:"Ukiyo/getting-started.md"};function n(o,s,c,d,i,p){return a(),e("div")}const m=t(r,[["render",n]]);export{l as __pageData,m as default};

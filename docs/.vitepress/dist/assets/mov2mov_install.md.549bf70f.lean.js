@@ -1,0 +1,1 @@
+import{_ as t,c as e,o as a}from"./app.56cd1ddb.js";const d=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"mov2mov/install.md","lastUpdated":1678564753000}'),o={name:"mov2mov/install.md"};function s(n,r,c,l,i,m){return a(),e("div")}const _=t(o,[["render",s]]);export{d as __pageData,_ as default};

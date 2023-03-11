@@ -19,17 +19,17 @@ hero:
 features:
   - icon: ⚡️
     title: mov2mov
-    details: 该板块讲解一切关于AI绘画的内容。
+    details: 该板块讲解一切关于mov2mov的内容。
     link: /mov2mov/getting-started.md
     linkText: 了解更多
   - icon: 🖖
     title: openpose
-    details: 该板块讲解一切关于语音识别的内容。
+    details: 该板块讲解一切关于openpose的内容。
     link: /openpose/getting-started.md
     linkText: 了解更多
   - icon: 🖖
     title: Ukiyo
-    details: 该板块讲解一切关于语音识别的内容。
+    details: 该板块讲解一切关于Ukiyo的内容。
     link: /Ukiyo/getting-started.md
     linkText: 了解更多
 ---

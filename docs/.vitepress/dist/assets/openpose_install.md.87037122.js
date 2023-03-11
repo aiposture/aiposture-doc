@@ -1,1 +1,0 @@
-import{_ as e,c as t,o as a}from"./app.56cd1ddb.js";const _=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"openpose/install.md","lastUpdated":1678564753000}'),s={name:"openpose/install.md"};function o(n,r,p,c,l,i){return a(),t("div")}const m=e(s,[["render",o]]);export{_ as __pageData,m as default};

@@ -110,11 +110,11 @@ export default {
         },
         footer: {
             message: 'Released under the MIT License.',
-            copyright: 'Copyright ©2023 By <a href="https://github.com/shineyull">Shine</a>'
+            copyright: 'Copyright ©2023 By <a href="https://github.com/aiposture">AiPosture Team</a>'
         },
         editLink: {
-            pattern: 'https://github.com/ShineYull/ai-docs/issues',
-            text: '欢迎提issues'
+            pattern: 'https://github.com/orgs/aiposture/discussions',
+            text: '欢迎论坛交流'
         },
     },
 }

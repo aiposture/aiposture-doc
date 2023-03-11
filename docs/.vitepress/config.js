@@ -1,5 +1,5 @@
 export default {
-    title: 'AiPosture',
+    title: '欢迎光临 AiPosture文档',
     description: 'Just playing around.',
     head:[
         ['link', { rel: 'icon', href: '/ai.webp' }]

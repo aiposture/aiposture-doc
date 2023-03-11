@@ -1,5 +1,5 @@
 ---
-title: AI创作
+title: AiPosture
 layout: home
 hero:
   name: AiPosture

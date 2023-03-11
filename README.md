@@ -1,6 +1,6 @@
-# AI创作
-让每个人都能轻松入门AI创作，并发挥自己的奇思妙想将它创造出来。
+# AiPosture
+文档网站
 
 # 加群
 扫码进群：  
-![AI创作群二维码](docs/AI-image.webp)
+![AiPosture群二维码](docs/AI-image.webp)

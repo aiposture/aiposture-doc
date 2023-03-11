@@ -1,0 +1,1 @@
+import{_ as t,c as e,o as a}from"./app.56cd1ddb.js";const _=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"Ukiyo/install.md","lastUpdated":null}'),s={name:"Ukiyo/install.md"};function n(o,r,c,l,i,p){return a(),e("div")}const m=t(s,[["render",n]]);export{_ as __pageData,m as default};
